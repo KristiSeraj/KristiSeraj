@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Coku.
 
-https://img.shields.io/twitter/follow/coku_mr?style=social
+![Twitter Follow](https://img.shields.io/twitter/coku_mr?label=Follow%20me&style=social)
 
 <!--
 **MrCoku/MrCoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
