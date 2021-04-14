@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-### Idea from @catalinpit
+### Idea from https://github.com/catalinpit
