@@ -8,7 +8,7 @@
 
 I'm a FrontEnd Developer 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCoku)](https://github.com/MrCoku/github-readme-stats)
+
 
 
 <!--
