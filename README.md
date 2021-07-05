@@ -8,9 +8,9 @@
 
 <p align="center">
 ![MrCoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoku&show_icons=true&theme=algolia)
-
+</p>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia)](https://github.com/MrCoku/github-readme-stats)
-  </p>
+  
 
 ---
 
