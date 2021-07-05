@@ -16,7 +16,7 @@ I'm a FrontEnd Developer
 
 ![MrCoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoku&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia)](https://github.com/MrCoku/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia)](https://github.com/MrCoku/github-readme-stats)
 
 ---
 
@@ -30,6 +30,7 @@ I'm a FrontEnd Developer
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+[How to Check all your Discord Stats](https://youtu.be/Vd9GUJxPHDc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
