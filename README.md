@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/kristjan-seraj-b141b8203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://stackoverflow.com/users/15266427/mrcoku"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
   <a href="https://codepen.io/mrcoku"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+   <a href="https://discord.io/remixor"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?label=Subcribe&style=social)
-
-[Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+ 
 
 
 
