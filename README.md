@@ -57,6 +57,9 @@
 
 ---
 
+### Support 
+
+<a href="https://www.buymeacoffee.com/mrmothdevs"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 
 
