@@ -30,13 +30,10 @@ I'm a FrontEnd Developer
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-[Useful app for FrontEnd Developers (Responsively App)](https://youtu.be/Wnb-72o88J8)
-
-[How To Get Your Discord Bot Running (Part 1) Discord.JS](https://youtu.be/PegMtRqbTnA)
-
-[How to Check all your Discord Stats](https://youtu.be/Vd9GUJxPHDc)
-
-[How To Change Discord Tag For Free](https://youtu.be/LGq8dioN510)
+- [Useful app for FrontEnd Developers (Responsively App)](https://youtu.be/Wnb-72o88J8)
+- [How To Get Your Discord Bot Running (Part 1) Discord.JS](https://youtu.be/PegMtRqbTnA)
+- [How to Check all your Discord Stats](https://youtu.be/Vd9GUJxPHDc)
+- [How To Change Discord Tag For Free](https://youtu.be/LGq8dioN510)
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
