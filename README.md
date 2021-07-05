@@ -11,6 +11,9 @@ I'm a FrontEnd Developer
 ---
 ![MrCoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoku&show_icons=true&theme=algolia)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact)](https://github.com/MrCoku/github-readme-stats)
+
+
 
 
 
