@@ -40,43 +40,12 @@
 
 ---
 
-📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Useful app for FrontEnd Developers (Responsively App)](https://youtu.be/Wnb-72o88J8)
-- [How To Get Your Discord Bot Running (Part 1) Discord.JS](https://youtu.be/PegMtRqbTnA)
-- [How to Check all your Discord Stats](https://youtu.be/Vd9GUJxPHDc)
-- [How To Change Discord Tag For Free](https://youtu.be/LGq8dioN510)
-
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA?sub_confirmation=1)
-
----
-
 ### :coffee: Support 
 
 <a href="https://www.buymeacoffee.com/mrmothdevs"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 
 
-
-
-<!--
-**MrCoku/MrCoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
