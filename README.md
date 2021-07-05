@@ -6,19 +6,11 @@
 
 [Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
----
-
-I'm a FrontEnd Developer 
-
----
-
-## My Github's Stats
-
----
-
+<p align="center">
 ![MrCoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoku&show_icons=true&theme=algolia)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia)](https://github.com/MrCoku/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia)](https://github.com/MrCoku/github-readme-stats)
+  </p>
 
 ---
 
