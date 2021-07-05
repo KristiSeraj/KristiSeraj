@@ -27,6 +27,16 @@ I'm a FrontEnd Developer
 
 ---
 
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA?sub_confirmation=1)
+
+---
+
 
 
 
