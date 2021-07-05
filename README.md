@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Coku.
 
 ---
+### Frontend Developer
 
-<p align='center'>
- - FrontEnd Developer, currently learning React JS
+ - Currently learning React JS
  - Uploading Youtube Videos to help others in their learning journey
  - Working with a team
-  </p>
 <p align='center'>
   <a href="https://twitter.com/coku_mr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kristjan-seraj-b141b8203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
