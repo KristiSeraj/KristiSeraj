@@ -9,7 +9,7 @@
 I'm a FrontEnd Developer 
 
 ---
-![MrCoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoku&show_icons=true&theme=radical)
+![MrCoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoku&show_icons=true&theme=algolia)
 
 
 
