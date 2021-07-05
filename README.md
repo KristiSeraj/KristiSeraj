@@ -17,10 +17,11 @@
 
 
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia"/></a>
+</p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia)](https://github.com/MrCoku/github-readme-stats)
-  
 
 ---
 
