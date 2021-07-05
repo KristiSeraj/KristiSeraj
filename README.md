@@ -2,7 +2,7 @@
 
 ---
 
-![Twitter URL](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?label=Subcribe&style=social)
+<a href="https://twitter.com/coku_mr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnPiMm-Jp4P5B2dy7SstDjA?label=Subcribe&style=social)
 
 [Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
