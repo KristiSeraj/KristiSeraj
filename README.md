@@ -30,6 +30,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoku&layout=compact&theme=algolia"/></a>
 </p>
 
+<p align='center'>
+ <a href="https://komarev.com/ghpvc/?username=MrCoku&style=flat"></a>
+ </p>
 
 
 ---
