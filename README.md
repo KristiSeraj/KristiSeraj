@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Coku.
 
 ---
-### Frontend Developer
+### Frontend Developer ![](https://komarev.com/ghpvc/?username=MrCoku&style=flat-square)
+
 
  - Currently learning React JS
  - Uploading Youtube Videos with <a href="https://github.com/remixor">Remixor</a> to help others in their learning journey
