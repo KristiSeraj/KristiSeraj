@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Coku.
 
 ---
-### Frontend Developer ![](https://komarev.com/ghpvc/?username=MrCoku&style=flat-square)
+### Frontend Developer ![](https://komarev.com/ghpvc/?username=MrCoku&style=flat)
 
 
  - Currently learning React JS
