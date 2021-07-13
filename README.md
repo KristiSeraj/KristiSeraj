@@ -31,7 +31,7 @@
 </p>
 
 <p align='center'>
- <a href="https://komarev.com/ghpvc/?username=MrCoku&style=flat"></a>
+ <a href="#"><img src="https://komarev.com/ghpvc/?username=MrCoku&style=flat" /></a>
  </p>
 
 
