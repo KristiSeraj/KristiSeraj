@@ -48,12 +48,3 @@
 
 <a href="https://www.buymeacoffee.com/mrmothdevs"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
-
-
-<a href="https://app.daily.dev/Coku13"><img src="https://api.daily.dev/devcards/4a79a3418b1e424597905c20d9b52f80.png?r=kc3" width="400" alt="MrCoku's Dev Card"/></a>
-
-
-
-
-
-
