@@ -9,9 +9,9 @@
  - Working with a team <a href="https://github.com/MrMothDevs">MrMoth Devs</a>
 <p align='center'>
   <a href="https://twitter.com/coku_mr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://codepen.io/mrcoku" target="_blank">><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA" target="_blank">><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-   <a href="https://discord.io/remixor" target="_blank">><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://codepen.io/mrcoku" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+   <a href="https://discord.io/remixor" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
  
 
