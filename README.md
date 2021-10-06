@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/channel/UCnPiMm-Jp4P5B2dy7SstDjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    <a href="https://discord.io/remixor" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
-<a align="center" href="https://app.daily.dev/Coku13"><img src="https://api.daily.dev/devcards/4a79a3418b1e424597905c20d9b52f80.png?r=3ib" width="400" alt="MrCoku's Dev Card"/></a>
+  <div>
  
 
 
