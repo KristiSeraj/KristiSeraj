@@ -5,8 +5,7 @@
  - Currently learning C language
  - Started a journey to become a software engineer
 
-
-
+### My GitHub stats
 <p align='center'>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KristiSeraj&show_icons=true&theme=algolia" width="350"/></a>
 </p>
