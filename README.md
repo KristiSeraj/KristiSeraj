@@ -4,9 +4,8 @@
 ### Frontend Developer
 
 
- - Currently learning React JS
- - Uploading Youtube Videos with <a href="https://github.com/remixor">Remixor</a> to help others in their learning journey
- - Working with a team <a href="https://github.com/MrMothDevs">MrMoth Devs</a>
+ - Currently learning C language
+ - Started a long journey to become a software engineer
 <p align='center'>
   <a href="https://twitter.com/kristi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://codepen.io/mrcoku" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
