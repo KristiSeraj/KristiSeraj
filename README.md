@@ -3,7 +3,7 @@
 ---
 
  - Currently learning C language
- - Started a long journey to become a software engineer
+ - Started a journey to become a software engineer
 
 
 
