@@ -7,12 +7,9 @@
 
 ### 📊 My GitHub stats
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KristiSeraj&show_icons=true&theme=algolia" width="350"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KristiSeraj&show_icons=true&theme=algolia" width="350"/></a><br>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiSeraj&layout=compact&theme=algolia"/></a>
-
-<p align='center'>
- <a href="#"><img src="https://komarev.com/ghpvc/?username=KristiSeraj&style=flat" /></a>
- </p>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=KristiSeraj&style=flat" /></a>
 
 
 ---
