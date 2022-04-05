@@ -2,6 +2,7 @@
 
 - *Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)*
 - *Currently learning **C language***
+- *I regularly write articles on [Dev.to](https://dev.to/kristi)*
 
 ## 🧾 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
