@@ -6,6 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
 
+## My GitHub Stats
+![Kristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiSeraj&theme=nord&show_icons=true)
+
 ## 🧾 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Singly linked lists](https://dev.to/kristi/singly-linked-lists-1892)
