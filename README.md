@@ -4,6 +4,7 @@
 
  - Currently learning C language
  - Started a journey to become a software engineer
+ <br>
  <a href="#"><img src="https://komarev.com/ghpvc/?username=KristiSeraj&style=flat" /></a>
 
 ### 📊 My GitHub stats
