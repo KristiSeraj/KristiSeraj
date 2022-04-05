@@ -7,9 +7,9 @@
 ![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
 
 ## My GitHub Stats
-![Kristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiSeraj&theme=nord&show_icons=true)
+![Kristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiSeraj&theme=nord&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiSeraj&layout=compact&theme=nord)](https://github.com/KristiSeraj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiSeraj&layout=compact&theme=nord&hide_border=true)](https://github.com/KristiSeraj/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KristiSeraj&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
