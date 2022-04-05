@@ -4,6 +4,8 @@
 - *Currently learning **C language***
 - *I regularly write articles on [Dev.to](https://dev.to/kristi)*
 
+![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
+
 ## 🧾 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Singly linked lists](https://dev.to/kristi/singly-linked-lists-1892)
