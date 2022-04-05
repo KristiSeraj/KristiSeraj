@@ -10,7 +10,7 @@
 ![Kristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiSeraj&theme=nord&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiSeraj&layout=compact&theme=nord)](https://github.com/KristiSeraj/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristiSeraj&theme=nord](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KristiSeraj&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🧾 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
