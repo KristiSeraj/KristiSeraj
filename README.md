@@ -8,7 +8,6 @@
 
 ## My GitHub Stats
 ![Kristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiSeraj&theme=nord&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiSeraj&layout=compact&theme=nord)](https://github.com/KristiSeraj/github-readme-stats)
 
 ## 🧾 Recent Blog Posts  
