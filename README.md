@@ -10,6 +10,8 @@
 ![Kristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiSeraj&theme=nord&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiSeraj&layout=compact&theme=nord)](https://github.com/KristiSeraj/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristiSeraj&theme=nord](https://git.io/streak-stats)
+
 ## 🧾 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Singly linked lists](https://dev.to/kristi/singly-linked-lists-1892)
@@ -17,10 +19,3 @@
 - [Rubber Duck Debugging](https://dev.to/kristi/rubber-duck-debugging-59a5)
 <!-- BLOG-POST-LIST:END -->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
