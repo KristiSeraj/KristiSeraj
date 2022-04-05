@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kristi.
 
 - *Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)*
+- *Currently learning **C language***
 
 ## 🧾 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
