@@ -1,3 +1,4 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kristi.
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Singly linked lists](https://dev.to/kristi/singly-linked-lists-1892)
