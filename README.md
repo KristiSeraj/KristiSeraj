@@ -1,14 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Kristi, a Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)</div>  
-  
+<h1 align="center">Hi 👋, I'm Kristi</h1>
+<h3 align="center">Software Engineer Student at Holberton School</h3>
 
 - 🌱 I’m currently learning C language  
-  
-
 - 🧾 I regularly write articles on [Dev.to](https://dev.to/kristi)  
   
 
