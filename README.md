@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 ![Kristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristiSeraj&theme=nord&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiSeraj&layout=compact&theme=nord&hide_border=true)](https://github.com/KristiSeraj/github-readme-stats)
@@ -19,4 +19,12 @@
 - [C Static Libraries](https://dev.to/kristi/c-static-libraries-46c6)
 - [Rubber Duck Debugging](https://dev.to/kristi/rubber-duck-debugging-59a5)
 <!-- BLOG-POST-LIST:END -->
+
+## 🧰 Languages
+
+
+## 📱 Connect with me
+
+
+## ☕ Support
 
