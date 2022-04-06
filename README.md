@@ -2,7 +2,7 @@
 
 - *Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)*
 - *Currently learning **C language***
-- *I regularly write articles on [Dev.to](https://dev.to/kristi)*
+- *I write articles on [Dev.to](https://dev.to/kristi)*
 
 ![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
 
