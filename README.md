@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kristi.
 
 - *Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)*
-- *Currently learning **C language***
+- *Currently learning **Python language***
 - *I write articles on [Dev.to](https://dev.to/kristi)*
 
 ![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
