@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kristi.
+## Hi there 👋 I'm Kristi.
 
 - *Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)*
 - *Currently learning **Python language***
