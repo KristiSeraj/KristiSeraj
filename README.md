@@ -19,6 +19,7 @@
 - [C Static Libraries](https://dev.to/kristi/c-static-libraries-46c6)
 - [Rubber Duck Debugging](https://dev.to/kristi/rubber-duck-debugging-59a5)
 <!-- BLOG-POST-LIST:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serajkristi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serajkristi/0" alt="Recent Article 0">
 
 ## 🧰 Toolbox
 
