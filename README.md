@@ -15,6 +15,9 @@
 
 ## 🧾 Recent Dev.to Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Recursion](https://medium.com/@serajkristi/recursion-c777feb8f718?source=rss-27ce14b5c3a8------2)
+- [Class and instance attributes](https://medium.com/@serajkristi/class-and-instance-attributes-631d2a868229?source=rss-27ce14b5c3a8------2)
+- [Mutable, immutable…everything is an object!](https://medium.com/@serajkristi/mutable-immutable-everything-is-an-object-f58a3fbc2bb9?source=rss-27ce14b5c3a8------2)
 - [Singly linked lists](https://dev.to/kristi/singly-linked-lists-1892)
 - [C Static Libraries](https://dev.to/kristi/c-static-libraries-46c6)
 - [Rubber Duck Debugging](https://dev.to/kristi/rubber-duck-debugging-59a5)
