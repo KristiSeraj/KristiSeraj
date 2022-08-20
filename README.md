@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Kristi.
 
 - *Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)*
-- *Currently learning **C, Python, SQL***
 - *I write articles on [Dev.to](https://dev.to/kristi) and [Medium](https://medium.com/@serajkristi)*
 
 ![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
