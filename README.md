@@ -14,6 +14,7 @@
 
 ## 🧾 Recent Dev.to Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [What happens when you type google.com in your browser and press Enter?](https://medium.com/@serajkristi/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-3e6e63f4382d?source=rss-27ce14b5c3a8------2)
 - [Recursion](https://medium.com/@serajkristi/recursion-c777feb8f718?source=rss-27ce14b5c3a8------2)
 - [Class and instance attributes](https://medium.com/@serajkristi/class-and-instance-attributes-631d2a868229?source=rss-27ce14b5c3a8------2)
 - [Mutable, immutable…everything is an object!](https://medium.com/@serajkristi/mutable-immutable-everything-is-an-object-f58a3fbc2bb9?source=rss-27ce14b5c3a8------2)
