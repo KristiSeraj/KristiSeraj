@@ -1,6 +1,9 @@
 ## Hi there 👋 I'm Kristi.
 
-- *Software Engineer Student at [Holberton School](https://www.holbertonschool.com/)*
+- *Software Engineer Student at [University Metropolitan Tirana](https://umt.edu.al/en/home/)*
+- *I’m a full-stack developer with experience in the MERN stack and a background as a QA tester. I’ve worked with tools and frameworks like NestJS, Next.js, and databases like PostgreSQL and MySQL. I studied at Holberton School, where I focused on full-stack web development, from foundation-level coding to specialization.*
+
+- *I love building applications that solve real-world problems and improving software quality through thorough testing. Whether it’s backend systems, frontend interfaces, or ensuring everything works seamlessly, I’m always up for a challenge and eager to learn new technologies.*
 - *I write articles on [Dev.to](https://dev.to/kristi) and [Medium](https://medium.com/@serajkristi)*
 
 ![](https://komarev.com/ghpvc/?username=KristiSeraj&color=grey)
